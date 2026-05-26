@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+jspm_packages
+
+# Builds
+dist
+dist-ssr
+out
+
+# Environment variables (CRITICAL: keeps your Groq API key private!)
+.env
+.env.local
+.env.production
+.env.development
+
+# Editor folders
+.vscode
+.idea
+.DS_Store
